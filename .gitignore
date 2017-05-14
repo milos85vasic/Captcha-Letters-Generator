@@ -89,7 +89,6 @@ ENV/
 .ropeproject
 
 output/
-source/
-captcha/salt.py
+captcha/salt_value.py
 .idea/modules.xml
 .idea/vcs.xml
