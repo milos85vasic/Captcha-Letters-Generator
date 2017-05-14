@@ -4,8 +4,6 @@ from os import listdir
 from os.path import isfile, join
 import hashlib
 
-salt = "fUn@m3nT@L777"
-
 only_files = [f for f in listdir("./source") if isfile(join("./source", f))]
 
 for filename in only_files:

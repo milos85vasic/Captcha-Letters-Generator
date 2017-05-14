@@ -90,3 +90,6 @@ ENV/
 
 output/
 source/
+captcha/salt.py
+.idea/modules.xml
+.idea/vcs.xml
