@@ -90,5 +90,4 @@ ENV/
 
 output/
 captcha/salt_value.py
-.idea/modules.xml
-.idea/vcs.xml
+.idea
